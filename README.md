@@ -10,7 +10,7 @@
 
 <img width="925" height="298" alt="image" src="https://github.com/user-attachments/assets/44d82d8e-88c6-4559-950b-1e89c31ab506" />
 
-
+menambahkan title praktikum 1 dan link navigasi
 
 **Output**
 
